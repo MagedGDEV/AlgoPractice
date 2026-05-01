@@ -7,8 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/MagedGDEV/AlgoPractice/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/MagedGDEV/AlgoPractice/tree/main/0636-exclusive-time-of-functions/) | Medium |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
