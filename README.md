@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/MagedGDEV/AlgoPractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0636-exclusive-time-of-functions](https://github.com/MagedGDEV/AlgoPractice/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/MagedGDEV/AlgoPractice/tree/main/0739-daily-temperatures/) | Medium |
+| [0941-valid-mountain-array](https://github.com/MagedGDEV/AlgoPractice/tree/main/0941-valid-mountain-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
