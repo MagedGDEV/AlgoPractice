@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MagedGDEV/AlgoPractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/MagedGDEV/AlgoPractice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/MagedGDEV/AlgoPractice/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/MagedGDEV/AlgoPractice/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -23,10 +24,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MagedGDEV/AlgoPractice/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0316-remove-duplicate-letters](https://github.com/MagedGDEV/AlgoPractice/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0739-daily-temperatures](https://github.com/MagedGDEV/AlgoPractice/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/MagedGDEV/AlgoPractice/tree/main/0066-plus-one/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/MagedGDEV/AlgoPractice/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0316-remove-duplicate-letters](https://github.com/MagedGDEV/AlgoPractice/tree/main/0316-remove-duplicate-letters/) | Medium |
 <!---LeetCode Topics End-->
