@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/MagedGDEV/AlgoPractice/tree/main/0739-daily-temperatures/) | Medium |
 | [0941-valid-mountain-array](https://github.com/MagedGDEV/AlgoPractice/tree/main/0941-valid-mountain-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/MagedGDEV/AlgoPractice/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/MagedGDEV/AlgoPractice/tree/main/0739-daily-temperatures/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,4 +41,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MagedGDEV/AlgoPractice/tree/main/0316-remove-duplicate-letters/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
