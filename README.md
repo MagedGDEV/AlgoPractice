@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0941-valid-mountain-array](https://github.com/MagedGDEV/AlgoPractice/tree/main/0941-valid-mountain-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/MagedGDEV/AlgoPractice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,8 +46,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/MagedGDEV/AlgoPractice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/MagedGDEV/AlgoPractice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
