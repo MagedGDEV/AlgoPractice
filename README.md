@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/MagedGDEV/AlgoPractice/tree/main/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/MagedGDEV/AlgoPractice/tree/main/0739-daily-temperatures/) | Medium |
 | [0941-valid-mountain-array](https://github.com/MagedGDEV/AlgoPractice/tree/main/0941-valid-mountain-array/) | Easy |
+| [1046-last-stone-weight](https://github.com/MagedGDEV/AlgoPractice/tree/main/1046-last-stone-weight/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/MagedGDEV/AlgoPractice/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MagedGDEV/AlgoPractice/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/MagedGDEV/AlgoPractice/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/MagedGDEV/AlgoPractice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1046-last-stone-weight](https://github.com/MagedGDEV/AlgoPractice/tree/main/1046-last-stone-weight/) | Easy |
 <!---LeetCode Topics End-->
